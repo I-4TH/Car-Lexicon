@@ -25,7 +25,7 @@
 /* Introduction Section */
 
 .home-background {
-    background-image: url("/Users/apple/Documents/Blog website/images/bg.jpg");
+    background-image: url("./images/bg.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     padding: 18% 0 30%;
