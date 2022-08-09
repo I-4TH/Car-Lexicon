@@ -1,0 +1,68 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+.h3-headers {
+    margin-bottom: 5%;
+}
+
+
+/* Navigation Section */
+
+#navigation-bar {
+    font-size: 1.2rem;
+}
+
+#blog-name {
+    font-family: 'Edu NSW ACT Foundation';
+    font-size: 2rem;
+    font-weight: 900;
+    color: #F32424;
+}
+
+
+/* Introduction Section */
+
+.home-background {
+    background-image: url("/Users/apple/Documents/Blog website/images/bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 18% 0 30%;
+    margin-bottom: 8%;
+}
+
+.first-header {
+    font-size: 3rem;
+    line-height: 2.5rem;
+}
+
+
+/*  */
+
+
+/* Footer */
+
+#footer {
+    background-color: #000;
+    height: 300px;
+    text-align: center;
+    margin: 20% 0% 0%;
+}
+
+.contact-us-text {
+    padding: 5% 0 0;
+}
+
+.icon {
+    color: #ffffff;
+    margin: 1% 0.50%;
+}
+
+.footer-hr {
+    color: #ffffff;
+}
+
+.copyright-text {
+    margin: 5% 0% 0%;
+}
